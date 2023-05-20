@@ -1,4 +1,4 @@
-**Hello there, Fellow Innovators! **👋
+Hello there, Fellow Innovators! 👋
 
 I'm an Engineer by heart, and an Entrepreneur by spirit. I've always had a knack for looking beyond the horizons, fueling my passion for bringing a visionary perspective into the technical world.
 
