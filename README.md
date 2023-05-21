@@ -8,7 +8,7 @@ I'm an Engineer by heart, and an Entrepreneur by spirit. I've always had a knack
 
 🔧 My specialty lies in streamlining machine and deep learning pipelines, covering everything from data ingestion, cleansing, to model training, deployment, and hyper-parameter tuning. This helps clients focus on the critical parts of AI adoption, while I handle the technical complexities.
 
-🌱 Beyond tech, I'm a firm believer in continuous learning and development, and I enjoy sharing knowledge with those around me. So feel free to ask me about anything from my favorite programming language (Go ♥) to Machine Learning automation and beyond!
+🌱 Beyond tech, I'm a firm believer in continuous learning and development, and I enjoy sharing knowledge with those around me. So feel free to ask me about anything from my favorite programming language (Go ♡) to Machine Learning automation and beyond!
 
 📬 I'm always open for collaborations, interesting projects, or grabbing a cup of coffee (if you're in Berlin). To reach me, try 'almasry' - 'at' - 'almasry.ws'.
 
