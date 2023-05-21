@@ -10,6 +10,6 @@ I'm an Engineer by heart, and an Entrepreneur by spirit. I've always had a knack
 
 🌱 Beyond tech, I'm a firm believer in continuous learning and development, and I enjoy sharing knowledge with those around me. So feel free to ask me about anything from my favorite programming language (Go ♡) to Machine Learning automation and beyond!
 
-📬 I'm always open for collaborations, interesting projects, or grabbing a cup of coffee (if you're in Berlin). To reach me, try 'almasry' - 'at' - 'almasry.ws'.
+📬 I'm always open for collaborations, interesting projects, or grabbing a coffee (if you're in Berlin). To reach me, try 'almasry' - 'at' - 'almasry.ws'.
 
 
