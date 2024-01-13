@@ -2,8 +2,6 @@ Hello there, Fellow Innovators! 👋
 
 I'm an Engineer by heart, and an Entrepreneur by spirit. 
 
-I've always had a knack for looking beyond the horizons, fueling my passion for bringing a visionary perspective into the technical world.
-
 💻 A golang (Go), concurrency and parallel computing aficionado and software architecture enthusiast at heart, I enjoy crafting sophisticated solutions to intricate problems.
 
 🚀 Leveraging the transformative power of data and Ml/DL, I help businesses scale, innovate, and discover unexplored territories.
