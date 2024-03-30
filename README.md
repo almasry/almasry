@@ -1,6 +1,6 @@
 Hello there, Fellow Innovators! 👋
 
-I'm a passionate Engineer deeply engaged in the world of software architecture, with a particular focus on Golang (Go), concurrency, and parallel computing. I thrive on developing sophisticated software solutions for complex problems.
+I'm a passionate Engineer deeply engaged in the world of software architecture, with a particular focus on Golang (Go), python, concurrency, machine learning and parallel computing. I thrive on developing sophisticated software solutions for complex problems.
 
 💻 My expertise lies in leveraging the power of cloud technologies to build scalable and efficient systems. I'm enthusiastic about creating architectures that not only solve immediate challenges but also pave the way for future innovations.
 
